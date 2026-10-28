@@ -42,4 +42,4 @@ One window can attach several runtimes, including a headless Linux machine, and 
 
 Smelt is written in Rust on GPUI and GPUI Kit, with alacritty's terminal core for embedded terminals and SQLite for local state. It is open source under the Apache License 2.0 and under active development.
 
-[GitHub repository](https://github.com/smelt-ai/smelt)
+[Official website](https://smelt-ai.github.io/smelt) · [GitHub repository](https://github.com/smelt-ai/smelt)

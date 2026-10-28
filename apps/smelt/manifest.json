@@ -8,7 +8,7 @@
     "macOS",
     "Windows"
   ],
-  "website": null,
+  "website": "https://smelt-ai.github.io/smelt",
   "source": "https://github.com/smelt-ai/smelt",
   "building": true,
   "publishedAt": "2026-10-28T00:00:00+08:00",
